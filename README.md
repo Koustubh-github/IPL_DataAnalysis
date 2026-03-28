@@ -115,7 +115,7 @@ The goal of this project is to analyze historical IPL data to:
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/IPL_DataAnalysis.git
+git clone https://github.com/Koustubh-github/IPL_DataAnalysis.git
 cd IPL_DataAnalysis
 pip install pandas numpy matplotlib seaborn
 jupyter notebook
